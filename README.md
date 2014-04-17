@@ -12,7 +12,7 @@ The plugin is tested to work with ```WordPress 3.9```.
 ### Equal Height (direct children)
 	[equal-height] … [/equal-height]
 
-### Equal Height (targetted child elements)
+### Equal Height (targeted child elements)
 	[equal-height target=".col-md-6"] … [/equal-height]
 
 #### [equal-height] parameters
