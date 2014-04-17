@@ -1,3 +1,3 @@
-[submodule "js/jQuery.equalHeights"]
-	path = js/jQuery.equalHeights
+[submodule "includes/js/jQuery.equalHeights"]
+	path = includes/js/jQuery.equalHeights
 	url = https://github.com/mattbanks/jQuery.equalHeights.git
